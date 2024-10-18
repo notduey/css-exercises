@@ -1,10 +1,10 @@
 .odd {
     background-color: pink;
-    font: Verdana, "DejaVu Sans", serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 
 }
 
-.big-and-blue {
+.bigblue {
     color: blue;
     font-size: 36px;
 }
@@ -13,7 +13,7 @@
     font-size: 24px;
 }
 
-.bold-and-light-green {
+.four {
     background-color: lightgreen;
     font-weight: 700;
 }
